@@ -1,0 +1,1127 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-706-789
+ERROR:root:Erreur lors de l'ajout du TD : duplicate key value violates unique constraint "unique_name_promotion_combination"
+DETAIL:  Key (name, id_promotion)=(TD Test avec Training, 1) already exists.
+ Le TD avec le nom 'TD Test avec Training' existe déjà dans la promotion INFO 2022
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 17:29:35] "POST /promotions/tds/add HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-706-789
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/rest_api.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/rest_api.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/rest_api.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-706-789
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-706-789
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-706-789
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 18:33:00] "POST /promotions/tds/tps/add HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 18:33:02] "POST /promotions/tds/tps/add HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-706-789
+ERROR:root:{'message': 'Le TP: tp DOIX existe déjà dans le TDA de la promotion 2022 INFO.', 'error_type': 'IntegrityError'}
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 18:34:19] "POST /promotions/tds/tps/add HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-706-789
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-706-789
+ERROR:root:{'message': 'Le TP: tp DOIX existe déjà dans le TDA de la promotion 2022 INFO.', 'error_type': 'IntegrityError'}
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 18:39:01] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-706-789
+ERROR:root:{'message': 'Le TP: tp DOIX existe déjà dans le TDA de la promotion 2022 INFO.duplicate key value violates unique constraint "unique_name_td_combination"\nDETAIL:  Key (name, id_td)=(tp DOIX, 1) already exists.\n'}
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 18:39:46] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-706-789
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-706-789
+ERROR:root:{'duplicate key value violates unique constraint "unique_name_td_combination"\nDETAIL:  Key (name, id_td)=(tp DOIX, 1) already exists.\n'}
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 18:40:07] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-706-789
+ERROR:root:{'duplicate key value violates unique constraint "unique_name_td_combination"\nDETAIL:  Key (name, id_td)=(tp DOIX, 1) already exists.\n'}
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 18:42:58] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 138-706-789
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 17:42:14] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 17:42:48] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 17:43:08] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 17:43:17] "[35m[1mPOST /promotions/add HTTP/1.1[0m" 201 -
+ERROR:root:Erreur d'intégrité lors de l'ajout de la promotion : duplicate key value violates unique constraint "unique_year_degree_combination"
+DETAIL:  Key (year, id_degree)=(2025, 1) already exists.
+
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 17:43:18] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 409 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 17:43:26] "[35m[1mPOST /promotions/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 17:43:59] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 17:49:05] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+ERROR:root:Erreur lors de la vérification de l'existence du degree : relation "degrees" does not exist
+LINE 1: SELECT EXISTS(SELECT 1 FROM Degrees WHERE id = 9);
+                                    ^
+
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 17:49:11] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+ERROR:root:Erreur lors de la vérification de l'existence du degree : relation "degrees" does not exist
+LINE 1: SELECT EXISTS(SELECT 1 FROM Degrees WHERE id = 1);
+                                    ^
+
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 17:49:16] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+ERROR:root:Erreur lors de la vérification de l'existence du degree : relation "degrees" does not exist
+LINE 1: SELECT EXISTS(SELECT 1 FROM Degrees WHERE id = 2);
+                                    ^
+
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 17:49:22] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+ERROR:root:Erreur lors de la vérification de l'existence du degree : relation "degrees" does not exist
+LINE 1: SELECT EXISTS(SELECT 1 FROM Degrees WHERE id = 2);
+                                    ^
+
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 17:49:38] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+ERROR:root:Erreur lors de la vérification de l'existence du degree : relation "degrees" does not exist
+LINE 1: SELECT EXISTS(SELECT 1 FROM Degrees WHERE id = 1);
+                                    ^
+
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 17:50:47] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+ERROR:root:Erreur lors de la vérification de l'existence du degree : relation "degrees" does not exist
+LINE 1: SELECT EXISTS(SELECT 1 FROM Degrees WHERE id = 1);
+                                    ^
+
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 17:50:48] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 17:55:02] "[35m[1mPOST /promotions/add HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 17:55:28] "[35m[1mPOST /promotions/add HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 17:55:48] "[35m[1mPOST /promotions/add HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:00:51] "[35m[1mPOST /promotions/add HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:01:33] "[35m[1mPOST /promotions/add HTTP/1.1[0m" 201 -
+ERROR:root:Erreur d'intégrité lors de l'ajout de la promotion : duplicate key value violates unique constraint "unique_year_degree_combination"
+DETAIL:  Key (year, id_degree)=(2025, 2) already exists.
+
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:01:41] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 409 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:01:45] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:02:02] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:02:06] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:03:51] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:03:57] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+ERROR:root:Erreur d'intégrité lors de l'ajout de la promotion : duplicate key value violates unique constraint "unique_year_degree_combination"
+DETAIL:  Key (year, id_degree)=(2025, 2) already exists.
+
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:04:06] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 409 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:04:26] "[35m[1mPOST /promotions/add HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:09:23] "[35m[1mPOST /promotions/add HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:09:27] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:13:43] "[35m[1mPOST /promotions/tds/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:14:07] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:14:16] "[35m[1mPOST /promotions/tds/add HTTP/1.1[0m" 201 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:16:39] "[35m[1mPOST /promotions/tds/add HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:16:44] "[33mPOST /promotions/tds/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:16:45] "[33mPOST /promotions/tds/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:16:49] "[35m[1mPOST /promotions/tds/add HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:16:50] "[35m[1mPOST /promotions/tds/add HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:16:51] "[35m[1mPOST /promotions/tds/add HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:16:52] "[35m[1mPOST /promotions/tds/add HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:16:53] "[35m[1mPOST /promotions/tds/add HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:17:28] "[35m[1mPOST /promotions/tds/add HTTP/1.1[0m" 201 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:18:42] "[35m[1mPOST /promotions/tds/add HTTP/1.1[0m" 201 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:19:31] "[35m[1mPOST /promotions/tds/add HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:19:33] "[35m[1mPOST /promotions/tds/add HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:20:19] "[33mPOST /promotions/tds/add HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:20:38] "[33mPOST /promotions/tds/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:20:39] "[33mPOST /promotions/tds/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:20:42] "[35m[1mPOST /promotions/tds/add HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:20:43] "[35m[1mPOST /promotions/tds/add HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:20:44] "[35m[1mPOST /promotions/tds/add HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:20:45] "[35m[1mPOST /promotions/tds/add HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:20:45] "[35m[1mPOST /promotions/tds/add HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:20:45] "[35m[1mPOST /promotions/tds/add HTTP/1.1[0m" 201 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:21:27] "[35m[1mPOST /promotions/tds/add HTTP/1.1[0m" 201 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:24:03] "POST /promotions/tds/add HTTP/1.1" 200 -
+ERROR:root:Erreur lors de l'ajout du TD : duplicate key value violates unique constraint "unique_name_promotion_combination"
+DETAIL:  Key (name, id_promotion)=(TD A, 1) already exists.
+ Le TD avec le nom 'TD A' existe déjà dans la promotion INFO 2022
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:24:04] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:25:42] "[33mPOST /promotions/tds/add HTTP/1.1[0m" 404 -
+ERROR:root:Erreur lors de l'ajout du TD : duplicate key value violates unique constraint "unique_name_promotion_combination"
+DETAIL:  Key (name, id_promotion)=(TD A, 1) already exists.
+ Le TD avec le nom 'TD A' existe déjà dans la promotion INFO 2022
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:26:02] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+ERROR:root:Erreur lors de l'ajout du TD : duplicate key value violates unique constraint "unique_name_promotion_combination"
+DETAIL:  Key (name, id_promotion)=(TD A, 1) already exists.
+ Le TD avec le nom 'TD A' existe déjà dans la promotion INFO 2022
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:26:03] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+ERROR:root:Erreur lors de l'ajout du TD : duplicate key value violates unique constraint "unique_name_promotion_combination"
+DETAIL:  Key (name, id_promotion)=(TD A, 1) already exists.
+ Le TD avec le nom 'TD A' existe déjà dans la promotion INFO 2022
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:29:27] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+ERROR:root:Erreur lors de la vérification de l'existence du parcours : relation "ent.training" does not exist
+LINE 1: SELECT EXISTS(SELECT 1 FROM ent.Training WHERE id = 155)
+                                    ^
+
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:29:44] "[33mPOST /promotions/tds/add HTTP/1.1[0m" 404 -
+ERROR:root:Erreur lors de la vérification de l'existence du parcours : relation "ent.training" does not exist
+LINE 1: SELECT EXISTS(SELECT 1 FROM ent.Training WHERE id = 1)
+                                    ^
+
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:29:48] "[33mPOST /promotions/tds/add HTTP/1.1[0m" 404 -
+ERROR:root:Erreur lors de la vérification de l'existence du parcours : relation "ent.training" does not exist
+LINE 1: SELECT EXISTS(SELECT 1 FROM ent.Training WHERE id = 2)
+                                    ^
+
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:29:54] "[33mPOST /promotions/tds/add HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+ERROR:root:Erreur lors de la vérification de l'existence du parcours : relation "ent.training" does not exist
+LINE 1: SELECT EXISTS(SELECT 1 FROM ent.Training WHERE id = 2)
+                                    ^
+
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:30:29] "POST /promotions/tds/add HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+ERROR:root:Erreur lors de la vérification de l'existence du parcours : relation "ent.training" does not exist
+LINE 1: SELECT EXISTS(SELECT 1 FROM ent.Training WHERE id = 1)
+                                    ^
+
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:31:41] "[33mPOST /promotions/tds/add HTTP/1.1[0m" 404 -
+ERROR:root:Erreur lors de la vérification de l'existence du parcours : relation "ent.training" does not exist
+LINE 1: SELECT EXISTS(SELECT 1 FROM ent.Training WHERE id = 1)
+                                    ^
+
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:31:42] "[33mPOST /promotions/tds/add HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+ERROR:root:Erreur lors de la vérification de l'existence du parcours : relation "ent.training" does not exist
+LINE 1: SELECT EXISTS(SELECT 1 FROM ent.Training WHERE id = 1)
+                                    ^
+
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:31:58] "[33mPOST /promotions/tds/add HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+ERROR:root:Erreur lors de la vérification de l'existence du parcours : relation "ent.training" does not exist
+LINE 1: SELECT EXISTS(SELECT 1 FROM ent.Training WHERE id = 1)
+                                    ^
+
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:32:20] "[33mPOST /promotions/tds/add HTTP/1.1[0m" 404 -
+ERROR:root:Erreur lors de la vérification de l'existence du parcours : relation "ent.training" does not exist
+LINE 1: SELECT EXISTS(SELECT 1 FROM ent.Training WHERE id = 1)
+                                    ^
+
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:32:21] "[33mPOST /promotions/tds/add HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+ERROR:root:Erreur lors de l'ajout du TD : duplicate key value violates unique constraint "unique_name_promotion_combination"
+DETAIL:  Key (name, id_promotion)=(TD A, 1) already exists.
+ Le TD avec le nom 'TD A' existe déjà dans la promotion INFO 2022
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:33:24] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+ERROR:root:Erreur lors de l'ajout du TD : duplicate key value violates unique constraint "unique_name_promotion_combination"
+DETAIL:  Key (name, id_promotion)=(TD A, 1) already exists.
+ Le TD avec le nom 'TD A' existe déjà dans la promotion INFO 2022
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:33:25] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:33:31] "[33mPOST /promotions/tds/add HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+ERROR:root:Erreur lors de l'ajout du TD : duplicate key value violates unique constraint "unique_name_promotion_combination"
+DETAIL:  Key (name, id_promotion)=(TD A, 1) already exists.
+ Le TD avec le nom 'TD A' existe déjà dans la promotion INFO 2022
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:38:17] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:38:22] "POST /promotions/tds/add HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:38:52] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:39:16] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:39:20] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:39:26] "POST /promotions/tds/add HTTP/1.1" 200 -
+ERROR:root:Erreur lors de l'ajout du TD : duplicate key value violates unique constraint "unique_name_promotion_combination"
+DETAIL:  Key (name, id_promotion)=(TD aaaaA, 2) already exists.
+ Le TD avec le nom 'TD aaaaA' existe déjà dans la promotion INFO-COM 2022
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:39:27] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:39:31] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:53:18] "[35m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:53:19] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 409 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:53:21] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 409 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:53:27] "[35m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:53:29] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 409 -
+ERROR:root:insert or update on table "tp" violates foreign key constraint "tp_id_td_fkey"
+DETAIL:  Key (id_td)=(19999) is not present in table "td".
+
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:53:33] "[35m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 500 -
+ERROR:root:insert or update on table "tp" violates foreign key constraint "tp_id_td_fkey"
+DETAIL:  Key (id_td)=(19999) is not present in table "td".
+
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:53:34] "[35m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+ERROR:root:insert or update on table "tp" violates foreign key constraint "tp_id_td_fkey"
+DETAIL:  Key (id_td)=(19999) is not present in table "td".
+
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:58:22] "[35m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 500 -
+ERROR:root:insert or update on table "tp" violates foreign key constraint "tp_id_td_fkey"
+DETAIL:  Key (id_td)=(19999) is not present in table "td".
+
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:58:24] "[35m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+ERROR:root:insert or update on table "tp" violates foreign key constraint "tp_id_td_fkey"
+DETAIL:  Key (id_td)=(19999) is not present in table "td".
+
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 18:59:44] "[35m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 19:01:19] "[33mPOST /promotions/tds/tps/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 19:01:24] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 409 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 19:01:28] "[35m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 201 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 19:07:59] "[33mPOST /promotions/tds/tps/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 19:08:00] "[33mPOST /promotions/tds/tps/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 19:08:04] "[33mPOST /promotions/tds/tps/add HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 19:09:08] "[35m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 19:09:09] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 409 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 19:09:10] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 409 -
+INFO:werkzeug:127.0.0.1 - - [01/Nov/2023 19:09:14] "[33mPOST /promotions/tds/tps/add HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 447-387-074
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 110-683-748
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:03] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:03] "[35m[1mPOST /promotions/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:03] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:03] "[35m[1mPOST /promotions/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:03] "[35m[1mPOST /promotions/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:03] "[35m[1mPOST /promotions/add HTTP/1.1[0m" 500 -
+ERROR:root:Format d'ID invalide, des nombres entiers sont requis
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:03] "[31m[1mPUT /promotions/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:03] "[31m[1mPUT /promotions/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:03] "[35m[1mPUT /promotions/students/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:03] "[35m[1mPUT /promotions/students/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:03] "[31m[1mPUT /promotions/tds/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:03] "[35m[1mPUT /promotions/tds/students/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:03] "[31m[1mPUT /promotions/tds/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:03] "[31m[1mPUT /promotions/tds/tps/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:03] "[31m[1mPUT /promotions/tds/tps/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:03] "[35m[1mPUT /promotions/tds/tps/students/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:03] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:03] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:04] "[35m[1mPOST /promotions/tds/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:04] "[35m[1mPOST /promotions/tds/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:04] "[35m[1mPOST /promotions/tds/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:04] "[35m[1mPOST /promotions/tds/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:04] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:04] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:04] "[35m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:04] "[35m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:26] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:26] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:26] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:26] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+ERROR:root:Erreur d'intégrité lors de l'ajout de la promotion : duplicate key value violates unique constraint "unique_year_degree_combination"
+DETAIL:  Key (year, id_degree)=(2023, 1) already exists.
+
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:26] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 409 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:26] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+ERROR:root:Format d'ID invalide, des nombres entiers sont requis
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:26] "[31m[1mPUT /promotions/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:26] "[31m[1mPUT /promotions/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:26] "PUT /promotions/students/add HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:27] "[33mPUT /promotions/students/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:27] "[31m[1mPUT /promotions/tds/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:27] "[33mPUT /promotions/tds/students/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:27] "[31m[1mPUT /promotions/tds/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:27] "[31m[1mPUT /promotions/tds/tps/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:27] "[31m[1mPUT /promotions/tds/tps/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:27] "[33mPUT /promotions/tds/tps/students/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:27] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:27] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:27] "[33mPOST /promotions/tds/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:27] "[33mPOST /promotions/tds/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:27] "POST /promotions/tds/add HTTP/1.1" 200 -
+ERROR:root:Erreur lors de l'ajout du TD : duplicate key value violates unique constraint "unique_name_promotion_combination"
+DETAIL:  Key (name, id_promotion)=(TD1, 1) already exists.
+ Le TD avec le nom 'TD1' existe déjà dans la promotion INFO 2022
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:27] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:27] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:27] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:27] "[33mPOST /promotions/tds/tps/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:20:27] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 409 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 110-683-748
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 110-683-748
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 110-683-748
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 110-683-748
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 110-683-748
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:34:56] "[31m[1mGET /promotions/tds/tps/add HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 110-683-748
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 110-683-748
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 110-683-748
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 110-683-748
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:38:41] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:38:41] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:38:41] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:38:41] "[33mPOST /promotions/add HTTP/1.1[0m" 404 -
+ERROR:root:Erreur d'intégrité lors de l'ajout de la promotion : duplicate key value violates unique constraint "unique_year_degree_combination"
+DETAIL:  Key (year, id_degree)=(2023, 1) already exists.
+
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:38:41] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 409 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:38:41] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/tests/test_promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/tests/test_promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/tests/test_promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 110-683-748
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:38:58] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:00] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:02] "[33mPOST /promotions/add HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/tests/test_promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/tests/test_promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/tests/test_promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 110-683-748
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:21] "[33mPOST /promotions/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:24] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:26] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:27] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 422 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/tests/test_promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/tests/test_promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/tests/test_promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 110-683-748
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:42] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:44] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+ERROR:root:Erreur d'intégrité lors de l'ajout de la promotion : duplicate key value violates unique constraint "unique_year_degree_combination"
+DETAIL:  Key (year, id_degree)=(2023, 1) already exists.
+
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:47] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 409 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:50] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:50] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:50] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:50] "[33mPOST /promotions/add HTTP/1.1[0m" 404 -
+ERROR:root:Erreur d'intégrité lors de l'ajout de la promotion : duplicate key value violates unique constraint "unique_year_degree_combination"
+DETAIL:  Key (year, id_degree)=(2023, 1) already exists.
+
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:50] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 409 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:50] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+ERROR:root:Format d'ID invalide, des nombres entiers sont requis
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:50] "[31m[1mPUT /promotions/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:50] "[31m[1mPUT /promotions/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:50] "PUT /promotions/students/add HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:50] "[33mPUT /promotions/students/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:50] "[31m[1mPUT /promotions/tds/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:50] "[33mPUT /promotions/tds/students/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:51] "[31m[1mPUT /promotions/tds/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:51] "[31m[1mPUT /promotions/tds/tps/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:51] "[31m[1mPUT /promotions/tds/tps/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:51] "[33mPUT /promotions/tds/tps/students/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:51] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:51] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:51] "[33mPOST /promotions/tds/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:51] "[33mPOST /promotions/tds/add HTTP/1.1[0m" 404 -
+ERROR:root:Erreur lors de l'ajout du TD : duplicate key value violates unique constraint "unique_name_promotion_combination"
+DETAIL:  Key (name, id_promotion)=(TD1, 1) already exists.
+ Le TD avec le nom 'TD1' existe déjà dans la promotion INFO 2022
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:51] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+ERROR:root:Erreur lors de l'ajout du TD : duplicate key value violates unique constraint "unique_name_promotion_combination"
+DETAIL:  Key (name, id_promotion)=(TD1, 1) already exists.
+ Le TD avec le nom 'TD1' existe déjà dans la promotion INFO 2022
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:51] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:51] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:51] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:51] "[33mPOST /promotions/tds/tps/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:39:51] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 409 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/tests/test_promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/tests/test_promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/tests/test_promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 110-683-748
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:40:31] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:40:31] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:40:31] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:40:31] "[33mPOST /promotions/add HTTP/1.1[0m" 404 -
+ERROR:root:Erreur d'intégrité lors de l'ajout de la promotion : duplicate key value violates unique constraint "unique_year_degree_combination"
+DETAIL:  Key (year, id_degree)=(2023, 1) already exists.
+
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:40:31] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 409 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:40:31] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+ERROR:root:Format d'ID invalide, des nombres entiers sont requis
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:40:31] "[31m[1mPUT /promotions/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:40:31] "[31m[1mPUT /promotions/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:40:31] "PUT /promotions/students/add HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:40:31] "[33mPUT /promotions/students/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:40:31] "[31m[1mPUT /promotions/tds/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:40:31] "[33mPUT /promotions/tds/students/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:40:31] "[31m[1mPUT /promotions/tds/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:40:31] "[31m[1mPUT /promotions/tds/tps/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:40:31] "[31m[1mPUT /promotions/tds/tps/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:40:31] "[33mPUT /promotions/tds/tps/students/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:40:31] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:40:31] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:40:31] "[33mPOST /promotions/tds/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:40:31] "[33mPOST /promotions/tds/add HTTP/1.1[0m" 404 -
+ERROR:root:Erreur lors de l'ajout du TD : duplicate key value violates unique constraint "unique_name_promotion_combination"
+DETAIL:  Key (name, id_promotion)=(TD1, 1) already exists.
+ Le TD avec le nom 'TD1' existe déjà dans la promotion INFO 2022
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:40:31] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+ERROR:root:Erreur lors de l'ajout du TD : duplicate key value violates unique constraint "unique_name_promotion_combination"
+DETAIL:  Key (name, id_promotion)=(TD1, 1) already exists.
+ Le TD avec le nom 'TD1' existe déjà dans la promotion INFO 2022
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:40:32] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:40:32] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:40:32] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:40:32] "[33mPOST /promotions/tds/tps/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:40:32] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 409 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 463-663-501
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:57:42] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:57:42] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:57:42] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:57:42] "[33mPOST /promotions/add HTTP/1.1[0m" 404 -
+ERROR:root:Erreur d'intégrité lors de l'ajout de la promotion : duplicate key value violates unique constraint "unique_year_degree_combination"
+DETAIL:  Key (year, id_degree)=(2023, 1) already exists.
+
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:57:42] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 409 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:57:42] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+ERROR:root:Format d'ID invalide, des nombres entiers sont requis
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:57:42] "[31m[1mPUT /promotions/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:57:42] "[31m[1mPUT /promotions/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:57:42] "PUT /promotions/students/add HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:57:42] "[33mPUT /promotions/students/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:57:42] "[31m[1mPUT /promotions/tds/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:57:42] "[33mPUT /promotions/tds/students/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:57:42] "[31m[1mPUT /promotions/tds/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:57:42] "[31m[1mPUT /promotions/tds/tps/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:57:42] "[31m[1mPUT /promotions/tds/tps/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:57:42] "[33mPUT /promotions/tds/tps/students/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:57:42] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:57:42] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:57:42] "[33mPOST /promotions/tds/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:57:42] "[33mPOST /promotions/tds/add HTTP/1.1[0m" 404 -
+ERROR:root:Erreur lors de l'ajout du TD : duplicate key value violates unique constraint "unique_name_promotion_combination"
+DETAIL:  Key (name, id_promotion)=(TD1, 1) already exists.
+ Le TD avec le nom 'TD1' existe déjà dans la promotion INFO 2022
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:57:43] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+ERROR:root:Erreur lors de l'ajout du TD : duplicate key value violates unique constraint "unique_name_promotion_combination"
+DETAIL:  Key (name, id_promotion)=(TD1, 1) already exists.
+ Le TD avec le nom 'TD1' existe déjà dans la promotion INFO 2022
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:57:43] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:57:43] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:57:43] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:57:43] "[33mPOST /promotions/tds/tps/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 09:57:43] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 409 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 463-663-501
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 463-663-501
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:00] "[33mGET /promotions/doccumentation HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:12] "[33mGET /promotions/documentation HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:31] "[33mGET /promotions/documentation HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:57] "[33mPOST /promotions/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:57] "[33mPOST /promotions/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:57] "[33mPOST /promotions/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:57] "[33mPOST /promotions/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:57] "[33mPOST /promotions/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:57] "[33mPOST /promotions/add HTTP/1.1[0m" 404 -
+ERROR:root:Format d'ID invalide, des nombres entiers sont requis
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:57] "[31m[1mPUT /promotions/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:57] "[31m[1mPUT /promotions/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:57] "PUT /promotions/students/add HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:57] "[33mPUT /promotions/students/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:57] "[31m[1mPUT /promotions/tds/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:57] "[33mPUT /promotions/tds/students/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:57] "[31m[1mPUT /promotions/tds/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:57] "[31m[1mPUT /promotions/tds/tps/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:57] "[31m[1mPUT /promotions/tds/tps/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:57] "[33mPUT /promotions/tds/tps/students/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:57] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:57] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:57] "[33mPOST /promotions/tds/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:57] "[33mPOST /promotions/tds/add HTTP/1.1[0m" 404 -
+ERROR:root:Erreur lors de l'ajout du TD : duplicate key value violates unique constraint "unique_name_promotion_combination"
+DETAIL:  Key (name, id_promotion)=(TD1, 1) already exists.
+ Le TD avec le nom 'TD1' existe déjà dans la promotion INFO 2022
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:57] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+ERROR:root:Erreur lors de l'ajout du TD : duplicate key value violates unique constraint "unique_name_promotion_combination"
+DETAIL:  Key (name, id_promotion)=(TD1, 1) already exists.
+ Le TD avec le nom 'TD1' existe déjà dans la promotion INFO 2022
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:57] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:57] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:57] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:57] "[33mPOST /promotions/tds/tps/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:06:57] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 409 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:07:19] "[33mPOST /promotions/add HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 463-663-501
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:08:12] "[35m[1mPOST /promotions/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:08:12] "[35m[1mPOST /promotions/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:08:12] "[35m[1mPOST /promotions/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:08:12] "[35m[1mPOST /promotions/add HTTP/1.1[0m" 500 -
+ERROR:root:Erreur d'intégrité lors de l'ajout de la promotion : duplicate key value violates unique constraint "unique_year_degree_combination"
+DETAIL:  Key (year, id_degree)=(2023, 1) already exists.
+
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:08:12] "[35m[1mPOST /promotions/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:08:12] "[35m[1mPOST /promotions/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:08:18] "GET /promotions/documentation HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:08:18] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:08:18] "GET /swaggerui/droid-sans.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:08:18] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:08:18] "GET /swaggerui/swagger-ui.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:08:18] "GET /promotions/swagger.json HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:08:18] "GET /swaggerui/favicon-32x32.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:08:54] "[35m[1mPOST /promotions/add HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 463-663-501
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:01] "[35m[1mPOST /promotions/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:01] "[35m[1mPOST /promotions/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:01] "[35m[1mPOST /promotions/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:01] "[35m[1mPOST /promotions/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:01] "[35m[1mPOST /promotions/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:01] "[35m[1mPOST /promotions/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:05] "[35m[1mPOST /promotions/add HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Detected change in '/home/ecyriaque/prive/git/SA-5.A-EntMontreuil-Back/modules/promotion.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 463-663-501
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5050
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 463-663-501
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:53] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:53] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:53] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:53] "[33mPOST /promotions/add HTTP/1.1[0m" 404 -
+ERROR:root:Erreur d'intégrité lors de l'ajout de la promotion : duplicate key value violates unique constraint "unique_year_degree_combination"
+DETAIL:  Key (year, id_degree)=(2023, 1) already exists.
+
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:53] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 409 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:53] "[31m[1mPOST /promotions/add HTTP/1.1[0m" 400 -
+ERROR:root:Format d'ID invalide, des nombres entiers sont requis
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:53] "[31m[1mPUT /promotions/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:53] "[31m[1mPUT /promotions/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:53] "PUT /promotions/students/add HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:53] "[33mPUT /promotions/students/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:53] "[31m[1mPUT /promotions/tds/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:53] "[33mPUT /promotions/tds/students/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:53] "[31m[1mPUT /promotions/tds/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:53] "[31m[1mPUT /promotions/tds/tps/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:53] "[31m[1mPUT /promotions/tds/tps/students/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:53] "[33mPUT /promotions/tds/tps/students/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:53] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:53] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:53] "[33mPOST /promotions/tds/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:53] "[33mPOST /promotions/tds/add HTTP/1.1[0m" 404 -
+ERROR:root:Erreur lors de l'ajout du TD : duplicate key value violates unique constraint "unique_name_promotion_combination"
+DETAIL:  Key (name, id_promotion)=(TD1, 1) already exists.
+ Le TD avec le nom 'TD1' existe déjà dans la promotion INFO 2022
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:53] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+ERROR:root:Erreur lors de l'ajout du TD : duplicate key value violates unique constraint "unique_name_promotion_combination"
+DETAIL:  Key (name, id_promotion)=(TD1, 1) already exists.
+ Le TD avec le nom 'TD1' existe déjà dans la promotion INFO 2022
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:53] "[31m[1mPOST /promotions/tds/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:53] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:53] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:53] "[33mPOST /promotions/tds/tps/add HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:11:53] "[31m[1mPOST /promotions/tds/tps/add HTTP/1.1[0m" 409 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:14:03] "[33mGET /promotions/documentation HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:14:04] "[33mGET /promotions/documentation HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:14:04] "[33mGET /promotions/documentation HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:14:04] "[33mGET /promotions/documentation HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 10:14:04] "[33mGET /promotions/documentation HTTP/1.1[0m" 404 -
